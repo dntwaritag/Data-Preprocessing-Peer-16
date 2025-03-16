@@ -137,7 +137,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For questions, contact:  
 Denys Ntwaritaganzwa - d.ntwaritag@alustudent.com  
-Aubin Ntwali - a.ntwali@alustudent.com
+Aubin Ntwali - a.ntwali@alustudent.com                                                                                                                                                    
 Anissa Ouedraogo - a.ouedraogo@alustudent.com           
 
 
