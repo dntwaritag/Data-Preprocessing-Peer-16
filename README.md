@@ -118,8 +118,8 @@ jupyter notebook Bonus_ML_Model.ipynb
 ## Team Contributions
 | Member         | Role                                      |
 |----------------|-------------------------------------------|
-| Denys Ntwaritaganzwa    | Data cleaning , augmentation & ML modeling  |
-| Aubin Ntwali     | Dataset merging , conflict resolution & report writing      |
+| Denys Ntwaritaganzwa    | Data cleaning , augmentation & report writing |
+| Aubin Ntwali     | Dataset merging , conflict resolution &  ML modeling |
 | Anissa Ouedraogo    | Feature engineering & quality checks     |
 
 ---
