@@ -125,10 +125,14 @@ jupyter notebook Bonus_ML_Model.ipynb
 ---
 
 ## Video Presentation
-[Link to team presentation]  
+Link to the team [presentation ](https://docs.google.com/document/d/1S1298S2L7PVEqkzBLG8wxnMzwkkO0O8awZ0lkbRkBrU/edit?usp=sharing) 
 
 ---
 
+## Report
+Link to the team [pdf Document](https://docs.google.com/document/d/1S1298S2L7PVEqkzBLG8wxnMzwkkO0O8awZ0lkbRkBrU/edit?usp=sharing)  
+
+---
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
