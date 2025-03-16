@@ -1,0 +1,6 @@
+Python 3.9+
+pandas
+scikit-learn
+XGBoost
+matplotlib
+jupyter
